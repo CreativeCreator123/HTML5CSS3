@@ -1,0 +1,78 @@
+
+body{
+
+background-color:#FFE85B
+}
+
+h1{
+background-color:#FA4344
+}
+ 
+button {
+border-color: blue;
+
+}
+
+h1{
+text-align: center;
+padding: 20px;
+}
+
+
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: auto;
+    }
+
+
+
+td{
+font-family: sans-serif;
+}
+
+th{
+    text-align:left ;
+font-family: cursive;}
+
+th,td{
+
+padding:Spux;
+
+}
+
+
+table {
+background-color: rgb(241, 232, 232);
+font-size: 120%;
+}
+
+body{
+font-size: 110%;
+
+}
+
+.program{
+    background-color: #5EEFF5;
+    width: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
